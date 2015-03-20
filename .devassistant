@@ -1,0 +1,20 @@
+dependencies:
+- rpm:
+  - java-devel
+- rpm:
+  - maven
+- rpm:
+  - eclipse
+  - eclipse-cdt
+- rpm:
+  - eclipse-jdt
+  - eclipse-m2e-core
+  - eclipse-egit
+devassistant_version: 0.9.3
+original_kwargs:
+  eclipse: !!python/unicode '/home/rrodriguez/workspace'
+  github: !!python/unicode 'ruberrodriguezv'
+  name: !!python/unicode '/home/rrodriguez/Documentos/Ejemplos/Inmobiliaria'
+project_type:
+- java
+- maven
